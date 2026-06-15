@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Akhil 👋
 
-<!--
-**Ramagiri-Akhil/Ramagiri-Akhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | JavaScript | React | DSA Enthusiast
 
-Here are some ideas to get you started:
+I am an Engineering student passionate about building modern web applications and solving Data Structures & Algorithms problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Git & GitHub
+- REST APIs
+
+## 📌 Featured Projects
+
+### Moodrift
+Mood-based place discovery application using React, Google Maps API and Framer Motion.
+
+### Personal Portfolio
+Showcasing projects, skills and developer journey.
+
+### DSA 90 Days Challenge
+Consistent problem solving with explanations and solutions.
+
+## 🌱 Currently Learning
+
+- Advanced React
+- Data Structures & Algorithms
+- System Design Basics
+
+## 📫 Connect With Me
+
+LinkedIn: YOUR_LINKEDIN
+Email: YOUR_EMAIL
