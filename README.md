@@ -32,5 +32,5 @@ Consistent problem solving with explanations and solutions.
 
 ## 📫 Connect With Me
 
-LinkedIn: YOUR_LINKEDIN
-Email: YOUR_EMAIL
+LinkedIn: https://www.linkedin.com/in/ramagiri-akhil-b630362bb/
+Email: akhilramagiri3@gmail.com
