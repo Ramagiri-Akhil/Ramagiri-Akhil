@@ -50,8 +50,7 @@ I am a passionate **Frontend & Full Stack Developer** and engineering student fo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramagiri-Akhil&show_icons=true&theme=dark" alt="Akhil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramagiri-Akhil&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/Ramagiri-Akhil/Ramagiri-Akhil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
